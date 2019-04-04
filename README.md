@@ -1,2 +1,0 @@
-# ReactStarter
-Created with CodeSandbox
